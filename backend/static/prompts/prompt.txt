@@ -1,0 +1,238 @@
+You are asked to come up with a set of unique examples of user asked questions about cryptocurrency analysis. These examples must follow our json object. 
+
+Here is our json object: 
+
+{
+   "query_category": ["Statistics", "Correlation","Prediction"] 
+   "cryptocurrency": [] 
+   "metric": "price", 
+   "time_range": "" 
+},
+
+Here is a list of top cryptocurrencies 
+
+[
+Bitcoin
+Ethereum
+Binance Coin
+Tether
+Solana
+Cardano
+USD Coin
+XRP
+Terra
+Polkadot
+Avalanche
+Dogecoin
+Shiba Inu
+Polygon
+Binance USD
+Crypto.com Coin
+Wrapped Bitcoin
+Uniswap
+Litecoin
+TerraUSD
+Chainlink
+Algorand
+Dai
+Bitcoin Cash
+TRON
+NEAR Protocol
+Stellar
+Decentraland
+Axie Infinity
+Cosmos
+Fantom
+VeChain
+FTX Token
+The Sandbox
+Hedera
+Filecoin
+Theta Network
+Bitcoin BEP2
+Elrond
+Internet Computer
+Ethereum Classic
+Helium
+IOTA
+Tezos
+Monero
+UNUS SED LEO
+Aave
+Gala
+Klaytn
+The Graph
+EOS
+PancakeSwap
+BitTorrent
+Stacks
+Loopring
+Harmony
+Flow
+Kusama
+Maker
+Bitcoin SV
+Enjin Coin
+Quant
+Kadena
+Amp
+Curve DAO Token
+eCash
+Zcash
+Neo
+THORChain
+Arweave
+Basic Attention Token
+Chiliz
+OKB
+KuCoin Token
+Celo
+Waves
+Huobi Token
+Dash
+Holo
+Compound
+Oasis Network
+Nexo
+TrueUSD
+IoTeX
+Mina
+NEM
+SushiSwap
+1inch Network
+ICON
+Theta Fuel
+yearn.finance
+Ravencoin
+XDC Network
+Decred
+Zilliqa
+Pax Dollar
+Celsius
+Immutable X
+Audius
+Livepeer
+Qtum
+OMG Network
+Voyager Token
+Dogelon Mars
+WAX
+Ankr
+Revain
+renBTC
+BORA
+Velas
+APENFT
+Bancor
+Siacoin
+Secret
+Horizen
+Bitcoin Gold
+Telcoin
+Perpetual Protocol
+0x
+Synthetix
+Nervos Network
+Storj
+dYdX
+Gnosis
+UMA
+SwissBorg
+Ren
+Ontology
+IOST
+Hive
+SKALE Network
+Raydium
+Ocean Protocol
+Neutrino USD
+Kava
+CEEK VR
+WOO Network
+Syscoin
+NuCypher
+Moonriver
+DigiByte
+GateToken
+Nano
+OriginTrail
+Serum
+Celer Network
+Aragon
+Ultra
+WINkLink
+Flux
+Polymath
+Golem
+XYO
+Fei USD
+Dent
+Chromia
+JUST
+Reserve Rights
+MyNeighborAlice
+WazirX
+DigitalBits
+Injective Protocol
+Fetch.ai
+Function X
+Casper
+Request
+Cartesi
+COTI
+Dvision Network
+Dusk Network
+Lisk
+PAX Gold
+Alpha Finance Lab
+Mdex
+Energy Web Token
+Reef
+Biconomy
+VeThor Token
+Swipe
+MediBloc
+Verge
+Bitcoin Diamond
+Bitcoin Standard Hashrate Token
+Orchid
+NKN
+Origin Protocol
+Phantasma
+iExec RLC
+Status
+Conflux
+Sun (New)
+Polkastarter
+Ardor
+Civic
+Constellation
+MX TOKEN
+Unibright
+StormX
+BakeryToken
+ASD
+],
+
+Here are three example of how we want the result to look like:  
+
+"What is the average price of Litecoin in the last 7 days?", {"query_category": "Statistics", "cryptocurrency": ["Litecoin"], "metric": "price", "time_range": "last 7 days"}, 
+"Do the prices of Dogecoin and Ethereum move in tandem in the last 14 days?", {"query_category": "Correlation", "cryptocurrency": ["Dogecoin", "Ethereum"], "metric": "price", "time_range": "last 14 days"}, 
+"How much will Binance Coin cost in the next six months?", {"query_category": "Prediction", "cryptocurrency": ["Binance Coin"], "metric": "price", "time_range": "next six months"},
+
+Here are the requirements:
+
+1. Each completion must follow our json object format.
+2. You are not allowed to add new keys to the json object.
+3. You are not allowed to come up with new categories
+4. In each completion the "query_category" must be one of these: ["Statistics", "Correlation","Prediction"]
+5. In each completion the "metric" must be one of these: ["Price"]
+6. If the completion does not contain time information, then "time_range" should be set to {}.
+7. The completions must be in English.
+8. Try not to repeat the verb for each instruction to maximize diversity.
+9. The example prompt should be 1 sentence long. Either an imperative sentence or a question is permitted.
+10. You must generate unique completions but be creative in rephrasing the questions, chaging the time range, and pick randomly from the cryptocurrency array.
+11. The question in the completion must be in quotation.
+12. A comma must be added after the question as a delimiter.
+
+Now use our json object format to categorize the questions and provide at least 1 unique example for each query category.

@@ -1,0 +1,10 @@
+Extract time information and cryptocurrency from the provided text and translate the time information to a time interval `[start], [end]`, expressed using python module datetime.datetime.now() and datetime.timedelta(). Put the cryptocurrencies extracted from the text in a python list. Here are some examples, 
+"What is the correlation between the prices of Bitcoin and Ethereum in the last week?", "[datetime.datetime.now() - datetime.timedelta(weeks=1)], [datetime.datetime.now()], ['Bitcoin', 'Ethereum']
+"What will be the predicted price of Ethereum Classic in the next month?", "[datetime.datetime.now()], [datetime.datetime.now() + datetime.timedelta(days=30)], ['Ethereum Classic']"
+"What is the average price of Binance USD yesterday", "[datetime.datetime.now() - datetime.timedelta(days=1)], [datetime.datetime.now()], ['Binance USD']"
+"What will be the predicted price of Chainlink in 3 hours", "[datetime.datetime.now()], [datetime.datetime.now() + datetime.timedelta(hours=3)], ['Chainlink']"
+"How much did the price of TerraUSD change since two years ago", "[datetime.datetime.now() - datetime.timedelta(days=730)], [datetime.datetime.now()], ['TerraUSD']"
+If you use datetime.timedelta(), you can only take "weeks", "days", or "hours" as parameters.
+If there is no time information or cryptocurrency, please provide "[]" as the answer. 
+Please only provide the answer in the required format, don't explain anything.
+Now provide the interval for this text

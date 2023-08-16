@@ -1,0 +1,10 @@
+version: '3'
+services:
+  backend:
+    image: chatdatainsight
+    command: python main.py --host=0.0.0.0
+    env_file: env
+    restart: always
+    ports:
+      - "3004:3004"
+      - "3005:3005"

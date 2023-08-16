@@ -1,0 +1,371 @@
+Symbol,Name
+BTC,Bitcoin
+ETH,Ethereum
+USDT,TetherUs
+BNB,BNB
+USDC,USD Coin
+XRP,Ripple
+ADA,Cardano
+MATIC,Polygon
+DOGE,Dogecoin
+SOL,Solana
+BUSD,BUSD
+DOT,Polkadot
+SHIB,SHIBA INU
+LTC,Litecoin
+TRX,TRON
+AVAX,Avalanche
+DAI,Dai
+UNI,Uniswap
+WBTC,Wrapped Bitcoin
+LINK,ChainLink
+ATOM,Cosmos
+ETC,Ethereum Classic
+XMR,Monero
+BCH,Bitcoin Cash
+FIL,Filecoin
+XLM,Stellar Lumens
+APT,Aptos
+LDO,Lido DAO
+TUSD,TrueUSD
+HBAR,Hedera Hashgraph
+NEAR,NEAR Protocol
+VET,VeChain
+ICP,Internet Computer
+STX,Stacks
+APE,ApeCoin
+ONT,Quant
+ALGO,Algorand
+GRT,The Graph
+FTM,Fantom
+IMX,ImmutableX
+EOS,EOS
+CFX,Conflux Network
+MANA,Decentraland
+XTZ,Tezos
+FLOW,Flow
+AAVE,Aave
+EGLD,MultiversX
+THETA,Theta Token
+AXS,Axie Infinity
+SAND,The Sandbox
+NEO,NEO
+USDP,Pax Dollar
+OP,Optimism
+RPL,Rocket Pool
+CHZ,Chiliz
+LUNC,Terra Classic
+CRV,Curve
+MINA,Mina
+KLAY,Klaytn
+SNX,Synthetix Network Token
+CAKE,PancakeSwap
+GMX,GMX
+MKR,Maker
+DASH,Dash
+BTTC,BitTorrent
+FXS,Frax Share
+IOTA,MIOTA
+AGIX,Singularity Token
+XEC,eCash
+ZEC,Zcash
+RNDR,Render Token
+PAXG,PAX Gold
+TWT,Trust Wallet Token
+RUNE,THORChain
+FTT,FTX Token
+LRC,Loopring
+ZIL,Zilliqa
+1INCH,1inch
+MASK,Mask Network
+KAVA,Kava
+DYDX,dYdX
+CVX,Convex Finance
+ENJ,Enjin Coin
+OSMO,Osmosis
+MAGIC,Magic
+SSV,SSV Token
+BAT,Basic Attention Token
+WOO,WOO Network
+T,Threshold
+XEM,NEM
+ROSE,Oasis Network
+NEXO,Nexo
+ANKR,Ankr
+FET,Fetch.AI
+LUNA,Terra
+QTUM,Qtum
+TFUEL,Theta Fuel
+COMP,Compound
+RVN,Ravencoin
+GALA,Gala
+BAL,Balancer
+HOT,Holo
+CELO,Celo
+INJ,Injective
+YFI,yearn.finance
+MOB,MobileCoin
+DCR,Decred
+KSM,Kusama
+ASTR,Astar
+AR,Arweave
+AUDIO,Audius
+ENS,Ethereum Name Service
+ONE,Harmony
+OMG,OMG Network
+GNS,Gains Network
+SUSHI,Sushi
+GMT,Green Metaverse Token
+WAVES,Waves
+GLMR,Glimmer
+GLM,Golem
+IOTX,IoTex
+OCEAN,Ocean Protocol
+JST,JUST
+JASMY,JasmyCoin
+KDA,Kadena
+USTC,TerraClassicUSD
+BAND,BAND
+SC,Siacoin
+LOTY,Liquity
+ICX,ICON
+ONT,Ontology
+HNT,Helium
+ACH,Alchemy Pay
+IOST,IOST
+ZRX,0x
+BICO,Biconomy
+HIVE,Hive
+FLUX,Flux
+RSR,Reserve Rights
+SKL,SKALE Network
+CKB,CKB
+ELE,aelf
+BNX,BinaryX
+SFP,SafePal
+ILV,Illuvium
+LPT,Livepeer
+AMP,AMP
+WAXP,WAX
+RIF,RSK Infrastructure Framework
+SXP,Swipe
+STORJ,Stori
+DGB,DigiByte
+CELR,Celer Network
+SYN,Synapse
+API3,API3
+MULTI,Multichain
+ZEN,Horizen
+LSK,Lisk
+UMA,UMA
+HFT,Hashflow
+RLC,iExecRLC
+SYS,Syscoin
+PLA,PlayDapp
+STG,Stargate Finance
+MC,Merit Circle
+KNC,KyberNetwork
+COCOS,Cocos-BCX
+PUNDIX,PundiX
+SLP,Smooth Love Potion
+REN,Ren
+XNO,Nano
+PEOPLE,ConstitutionDAO
+NMR,Numeraire
+DENT,DENT
+JOE,JOE
+SCRT,Secret
+HOOK,Hooked Protocol
+GTC,Gitcoin
+SNT,Status
+CVC,Civic
+PYR,Vulcan Forged PYR
+GAL,Galxe
+CHR,Chromia
+VGX,Voyager Token
+DEXE,DeXe
+POLYX,Polymesh
+ONG,Ontology Gas
+REQ,Request Network
+CTSI,Cartesi
+RAD,Radicle
+ANT,Aragon
+PROM,Prometeus
+MBOX,MOBOX
+ARDR,Ardor
+STEEM,Steem
+DODO,DODO
+POWR,PowerLedger
+BNT,Bancor
+STPT,Standard Tokenization Protocol
+COTI,COTI
+ALPHA,Alpha Finance Lab
+VTHO,VeThor Token
+TRU,TrueFi
+MDX,Mdex
+WIN,WINkLink
+POND,Marlin
+NKN,NKN
+DUSK,Dusk Network
+PHA,Phala.Network
+HIGH,Highstreet
+MTL,Metal
+STRAX,Stratis
+IQ,Everipedia
+ALICE,My Neighbor Alice
+SPELL,Spell Token
+LOOM,Loom Network
+FUN,FunToken
+XVS,Venus
+WNXM,Wrapped NXM
+QKC,QuarkChain
+BSW,Biswap
+YGG,Yield Guild Games
+CTK,Shentu
+SRM,Serum
+TLM,Alien Worlds
+WRX,WazirX
+OXT,Orchid
+ACA,Acala Token
+BADGER,Badger DAO
+REEF,Reef
+STMX,StormX
+GHST,Aavegotchi
+OGN,OriginToken
+ARPA,ARPA Chain
+BETA,Beta Finance
+SUN,SUN
+ATA,Automata
+PERP,Perpetual Protocol
+ARK,Ark
+TKO,Tokocrypto
+KEY,Selfkey
+LINA,Linear
+MOVR,Moonriver
+IRIS,IRISnet
+DAR,Mines of Dalarnia
+AERGO,Aergo
+VAI,Vai
+WAN,Wanchain
+MBL,MovieBloc
+CTXC,Cortex
+TOMO,TomoChain
+FORTH,Ampleforth Governance Token
+C98,Coin98
+SUPER,SuperFarm
+GFT,Gifto
+UTK,Utrust
+XVG,Verge
+RAY,Raydium
+ALPACA,Alpaca Finance
+PHB,Phoenix
+MLN,Enzyme
+LTO,LTO  Network
+LIT,Litentry
+QLC,Kepple
+POLS,Polkastarter
+MDT,Measurable Data Token
+QUICK,QuickSwap
+FLM,Flamingo
+RARE,SuperRare
+YFII,DFI.Money
+HIFI,Hifi Finance
+LOKA,League of Kingdoms
+TVK,Virtua
+BIFI,Beefy.Finance
+AUCTION,Auction
+ALCX,Alchemix
+IDEX,IDEX
+BAKE,BakeryToken
+BAR,FC Barcelona FanToken BAR
+DIA,DIA
+KP3R,Keep3rV1
+GAS,NeoGas
+SNM,SONM
+BTS,BitShares
+FIS,Stafi
+AVA,Travala.com
+QI,BENQI
+BOND,BarnBridge
+KMD,Komodo
+TROY,Troy
+BEL,Bella Protocol
+CHESS,Tranchess
+LEVER,LeverFi
+AGLD,Adventure Gold
+ORN,Orion Protocol
+CLV,Clover Finance
+REI,REI Network
+BLZ,Bluzelle
+DF,dForce
+VOXEL,Voxies
+VIDT,VIDT DAO
+DEGO,Dego Finance
+ERN,Ethernity Chain
+DATA,Streamr
+COS,Contentos
+NULS,Nuls
+ADX,Ambire AdEx
+PIVX,PIVX
+ALPINE,Alpine F1 TeamFan Token
+FIRO,Firo
+NEBL,Neblio
+FIO,FIO Protocol
+TRB,Tellor Tributes
+CITY,Manchester City Fan Token
+PSG,Paris Saint- Germain FanToken
+HARD,Kava Lend
+UNFI,Unifi Protocol DAO
+FARM,Harvest Finance
+DREP,DREP
+LAZIO,Lazio Fan Token
+AMB,AirDAO
+VITE,VITE
+BURGER,BurgerCities
+FRONT,Frontier
+OM,MANTRA
+CREAM,Cream Finance
+EPX,Ellipsis
+SANTOS,Santos FC Fan Token
+WING,Wing Token
+AKRO,Akropolis
+VIB,Viberate
+FIDA,Bonfida
+DOCK,DOCK
+AUTO,Auto
+PORTO,FC Porto Fan Token
+FOR,ForTube
+OOKI,OokiDAO
+PNT,pNetwork
+PERL,Perlin
+WTC,Walton
+PROS,Prosper
+AST,AirSwap
+CVP,PowerPool
+BIDR,BIDR
+OAX,openANX
+UFT,UniLend
+ACM,AC Milan Fan Token
+JUV,Juventus Fan Token
+OG,OG Fan Token
+ATM,Atletico de  Madrid Fan Token
+TORN,Tornado Cash
+IDRT,Rupiah Token
+ASR,AS Roma Fan Token
+WABI,TAEL
+ADADOWN,ADADOWN
+ADAUP,ADAUP
+AUD,Australian Dollar
+BETH,BETH
+BNBDOWN,BNBDOWN
+BNBUP,BNBUP
+BTCDOWN,BTCDOWN
+BTCUP,BTCUP
+ETHDOWN,ETHDOWN
+ETHUP,ETHUP
+EUR,Euro
+GBP,Pound Sterling
+LINKDOWN,LINKDOWN
+LINKUP,LINKUP
+XRPDOWN,XRPDOWN
+XRPUP,XRPUP

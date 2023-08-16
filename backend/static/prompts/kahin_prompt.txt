@@ -1,0 +1,7 @@
+Extract time interval and cryptocurrency from text using python datetime.datetime.now() \
+and datetime.timedelta(). Put the cryptocurrencies in a python list. If there is no time \
+information or cryptocurrency, please provide "[]".
+
+Example:
+"What is the average price of Bitcoin in the last 24 hours?", \
+"[datetime.datetime.now() - datetime.timedelta(days=1)], [datetime.datetime.now()], ['Bitcoin']"

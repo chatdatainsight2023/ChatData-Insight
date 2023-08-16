@@ -1,0 +1,14 @@
+/polardash-backend-env
+.env
+test_api.py
+/services/main_project/moonbeam/static/materials
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+env
+/static/image/*
+!/static/image/.gitkeep
+tools
+nohup.out

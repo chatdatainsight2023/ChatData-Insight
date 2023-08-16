@@ -1,0 +1,1 @@
+You need to obtain the key query parameters based on user input. For example, in the question 'What news are there about Bitcoin?', the key parameter is 'Bitcoin'."""
